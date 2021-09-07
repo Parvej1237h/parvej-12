@@ -12,7 +12,7 @@ jobs:
 
     steps:
 
-    - name: Downloading Ngrok.
+    - name: Downloading Ngrok
 
       run: |
 
